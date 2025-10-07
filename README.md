@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>MySQL Database Design & Normalization</b>
-  - [Praciting Database](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting Database](https://github.com/Fithubh/MySQL-Database-Design))
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
